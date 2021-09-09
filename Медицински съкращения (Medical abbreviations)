@@ -851,6 +851,7 @@
 * ИТЛК изходящ тракт на лявата камера
 * ИТМ индекс на телесна маса
 * ИТП имунна тромбоцитопения
+* ИТРК изходящ тракт на дясната камера
 * ИТТ индекс на телесното тегло
 * ИУН интраутеринно налягане
 * ИФ имунофенотипизиране; инвазивен фронт
@@ -3101,6 +3102,7 @@ JVP (jugular venous pressure) югуларно венозно налягане
 * LVEF (Left Ventricular Eject Fraction) левокамерна фракция на изтласкване (норма 55−75%)
 * LVH (left ventricular hypertrophy) левокамерна хипертрофия
 * LVI лимфоваскуларна инвазия
+* LVOT left ventricular outflow tract Изходящ тракт на лява камера
 * Ly лимфоцити
 
 - M -
@@ -3405,6 +3407,7 @@ JVP (jugular venous pressure) югуларно венозно налягане
 * RUL (right upper lobe) десен горен лоб
 * RV (right ventricle) дясна камера (ДК)
 * RVH (right ventricular hyperthrophy) деснокамерна хипертрофия
+* RVOT right ventricular outflow tract Изходящ тракт на дясна камера
 * RVSP (right ventricular systolic pressure, measured in millimeters of mercury (mmHg), 
 found on an echocardiogram report) систолно налягане на дясната камера, измерено в милиметри живачен стълб (mmHg), 
 установено в ехокардиографски доклад
